@@ -6,3 +6,7 @@ with open("sensorDataConverted.csv", 'r') as sensorData:
         # jag heter Figaro
 
 print("Mattespetsarna kommer förlora")
+
+
+
+print("goofy")
