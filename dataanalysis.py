@@ -7,6 +7,6 @@ with open("sensorDataConverted.csv", 'r') as sensorData:
 
 print("Mattespetsarna kommer förlora")
 
-
-
 print("goofy")
+
+print("Ett goofy test")
